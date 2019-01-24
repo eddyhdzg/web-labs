@@ -1,0 +1,187 @@
+/* Fonts */
+@font-face {
+  font-family: GoogleSansBold;
+  src: url("../assets/GoogleSans-Bold.ttf");
+  src: url("../assets/GoogleSans-Bold.ttf") format("☺"),
+    url("../assets/GoogleSans-Bold.ttf") format("woff"),
+    url("../assets/GoogleSans-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: GoogleSans;
+  src: url("../assets/GoogleSans-Regular.ttf");
+  src: url("../assets/GoogleSans-Regular.ttf") format("☺"),
+    url("../assets/GoogleSans-Regular.ttf") format("woff"),
+    url("../assets/GoogleSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #222222;
+  font-size: 18px;
+}
+
+/* 0 porque me está fregando */
+div,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.max-width {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  width: 90%;
+}
+
+.center {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+
+.regular {
+  font-family: "GoogleSans";
+  font-weight: 400;
+}
+
+.medium {
+  font-weight: 500;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.line-height-1 {
+  line-height: 1.7;
+}
+
+.grey {
+  color: #999999;
+}
+
+.blue {
+  color: #2174f7;
+}
+
+.grey-darken {
+  color: #444444;
+}
+
+h1,
+h2 {
+  font-family: "GoogleSansBold";
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+header {
+  margin-bottom: 60px;
+}
+
+#name {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#position {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+.date {
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  margin-bottom: 60px;
+}
+
+.header {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.subsection {
+  margin-bottom: 60px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+p.skills {
+  margin-bottom: 20px;
+}
+
+/* media queries */
+
+@media (max-width: 600px) {
+  p {
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+
+  .subtitle {
+    margin-bottom: 30px;
+  }
+
+  .contact {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 992px) {
+  h1 {
+    font-size: 56px;
+  }
+
+  .container {
+    width: 85%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 80%;
+  }
+}
