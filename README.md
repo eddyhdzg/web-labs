@@ -1,12 +1,13 @@
 ## Links!
 
+- [https://eddyhdzg.github.io/web-labs](https://eddyhdzg.github.io/web-labs)
 - [https://eddyhdzg.github.io/web-labs/lab1/](https://eddyhdzg.github.io/web-labs/lab1/)
 - [https://eddyhdzg.github.io/web-labs/lab2/](https://eddyhdzg.github.io/web-labs/lab2/)
 
 ## Author
 
 **Eduardo Hernández Garza**
-[https://github.com/eddyhdzg/](https://eddyhdzg.github.io/web-labs/lab1/)
+[https://github.com/eddyhdzg/](https://github.com/eddyhdzg)
 
 ## Lab 1 - Resume
 
