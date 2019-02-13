@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:500"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:500,700"
+      rel="stylesheet"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="./css/checkbox.css" />
+
+    <title>Lab 2 - Todo List</title>
+  </head>
+  <body>
+    <div class="container material_block">
+      <h1>My Tasks</h1>
+      <div class="list">
+        <ul id="tasks">
+          <li>
+            <input
+              id="1"
+              type="checkbox"
+              class="material_checkbox"
+              onchange="check(this)"
+            />
+            <label for="1">Lab 2 de Web</label>
+          </li>
+        </ul>
+
+        <div>
+          <h3 id="completed-h3">Completed</h3>
+          <ul id="completed">
+            <li>
+              <input
+                id="3"
+                type="checkbox"
+                class="material_checkbox"
+                onchange="check(this)"
+                checked
+              />
+              <label for="3">Lab 1 de Web</label>
+            </li>
+          </ul>
+        </div>
+        <input
+          id="newitem"
+          type="text"
+          name="newitem"
+          placeholder="Add a new task"
+        />
+      </div>
+    </div>
+
+    <script type="text/javascript" src="./js/main.js" defer></script>
+  </body>
+</html>
