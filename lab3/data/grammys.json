@@ -1,0 +1,863 @@
+{
+  "fields": [
+    {
+      "field": "General Field",
+      "field_id": 1,
+      "description": "Award to the Artist and to the Producer(s), Recording Engineer(s) and/or Mixer(s) and mastering engineer(s), if other than the artist.",
+      "categories": [
+        {
+          "category_name": "Record Of The Year",
+          "category_id": 1,
+          "description": "Award to the Artist and to the Producer(s), Recording Engineer(s) and/or Mixer(s) and mastering engineer(s), if other than the artist.",
+          "nominees": [
+            {
+              "nominee": "I LIKE IT",
+              "artist": "Cardi B, Bad Bunny & J Balvin",
+              "info": "Invincible, JWhiteDidIt, Craig Kallman & Tainy, producers; Leslie Brathwaite, Kuk Harrell, Evan LaRay & Simone Torres, engineers/mixers; Colin Leonard, mastering engineer"
+            },
+            {
+              "nominee": "THE JOKE",
+              "artist": "Brandi Carlile",
+              "info": "Dave Cobb & Shooter Jennings, producers; Tom Elmhirst & Eddie Spear, engineers/mixers; Pete Lyman, mastering engineer"
+            },
+            {
+              "nominee": "THIS IS AMERICA",
+              "artist": "Childish Gambino",
+              "info": "Donald Glover & Ludwig Goransson, producers; Derek \"MixedByAli\" Ali, Riley Mackin & Shaan Singh, engineers/mixers; Mike Bozzi, mastering engineer"
+            },
+            {
+              "nominee": "GOD'S PLAN",
+              "artist": "Drake",
+              "info": "Boi-1Da, Cardo & Young Exclusive, producers; Noel Cadastre, Noel \"Gadget\" Campbell & Noah Shebib, engineers/mixers; Chris Athens, mastering engineer."
+            },
+            {
+              "nominee": "SHALLOW",
+              "artist": "Lady Gaga & Bradley Cooper",
+              "info": "Lady Gaga & Benjamin Rice, producers; Brandon Bost & Tom Elmhirst, engineers/mixers; Randy Merrill, mastering engineer"
+            },
+            {
+              "nominee": "ALL THE STARS",
+              "artist": "Kendrick Lamar & SZA",
+              "info": "Al Shux & Sounwave, producers; Sam Ricci & Matt Schaeffer, engineers/mixers; Mike Bozzi, mastering engineer"
+            },
+            {
+              "nominee": "ROCKSTAR",
+              "artist": "Post Malone Featuring 21 Savage",
+              "info": "Louis Bell & Tank God, producers; Louis Bell, Lorenzo Cardona, Manny Marroquin & Ethan Stevens, engineers/mixers; Mike Bozzi, mastering engineer"
+            },
+            {
+              "nominee": "THE MIDDLE",
+              "artist": "Zedd, Maren Morris & Grey",
+              "info": "Grey, Monsters & Strangerz & Zedd, producers; Grey, Tom Norris, Ryan Shanahan & Zedd, engineers/mixers; Mike Marsh, mastering engineer"
+            }
+          ],
+          "winner_id": 2
+        },
+        {
+          "category_name": "Album Of The Year",
+          "description": "Award to Artist(s) and to Featured Artist(s), Songwriter(s) of new material, Producer(s), Recording Engineer(s), Mixer(s) and Mastering Engineer(s) credited with at least 33% playing time of the album, if other than Artist.",
+          "category_id": 2,
+          "nominees": [
+            {
+              "nominee": "INVASION OF PRIVACY",
+              "artist": "Cardi B",
+              "info": "Leslie Brathwaite & Evan LaRay, engineers/mixers; Belcalis Almanzar & Jorden Thorpe, songwriters; Colin Leonard, mastering engineer"
+            },
+            {
+              "nominee": "BY THE WAY, I FORGIVE YOU",
+              "artist": "Brandi Carlile",
+              "info": "Dave Cobb & Shooter Jennings, producers; Dave Cobb & Eddie Spear, engineers/mixers; Brandi Carlile, Phil Hanseroth & Tim Hanseroth, songwriters; Pete Lyman, mastering engineer"
+            },
+            {
+              "nominee": "SCORPION",
+              "artist": "Drake",
+              "info": "Noel Cadastre, Noel \"Gadget\" Campbell & Noah Shebib, engineers/mixers; Aubrey Graham & Noah Shebib, songwriters; Chris Athens, mastering engineer"
+            },
+            {
+              "nominee": "H.E.R",
+              "artist": "H.E.R",
+              "info": "Darhyl \"Hey DJ\" Camper Jr, David 'Swagg R'Celious' Harris, H.E.R., Walter Jones & Jeff Robinson, producers; Miki Tsutsumi, engineer/mixer; Darhyl Camper Jr & H.E.R., songwriters; Dave Kutch, mastering engineer"
+            },
+            {
+              "nominee": "BEERBONGS & BENTLEYS",
+              "artist": "Post Malone",
+              "info": "Louis Bell & Post Malone, producers; Louis Bell & Manny Marroquin, engineers/mixers; Louis Bell & Austin Post, songwriters; Mike Bozzi, mastering engineer"
+            },
+            {
+              "nominee": "DIRTY COMPUTER",
+              "artist": "Janelle Monáe",
+              "info": "Chuck Lightning & Janelle Monáe Robinson & Nate \"Rocket\" Wonder, producers; Mick Guzauski, Janelle Monáe Robinson & Nate \"Rocket\" Wonder, engineers/mixers; Nathaniel Irvin III, Charles Joseph II, Taylor Parks & Janelle Monáe Robinson, songwriters; Dave Kutch, mastering engineer"
+            },
+            {
+              "nominee": "GOLDEN HOUR",
+              "artist": "Kacey Musgraves",
+              "info": "Ian Fitchuk, Kacey Musgraves & Daniel Tashian, producers; Craig Alvin & Shawn Everett, engineers/mixers; Ian Fitchuk, Kacey Musgraves & Daniel Tashian, songwriters; Greg Calbi & Steve Fallone, mastering engineers"
+            },
+            {
+              "nominee": "BLACK PANTHER: THE ALBUM, MUSIC FROM AND INSPIRED BY",
+              "artist": "Various artist",
+              "info": "Kendrick Lamar, featured artist; Kendrick Duckworth & Sounwave, producers; Matt Schaeffer, engineer/mixer; Kendrick Duckworth & Mark Spears, songwriters; Mike Bozzi, mastering engineer"
+            }
+          ],
+          "winner_id": 6
+        },
+        {
+          "category_name": "Song Of The Year",
+          "category_id": 3,
+          "description": "A Songwriter(s) Award. A song is eligible if it was first released or if it first achieved prominence during the Eligibility Year. (Artist names appear in parentheses.) Singles or Tracks only",
+          "nominees": [
+            {
+              "nominee": "ALL THE STARS",
+              "artist": "Kendrick Duckworth, Solána Rowe, Al Shuckburgh, Mark Spears & Anthony Tiffith, songwriters (Kendrick Lamar & SZA)",
+              "info": ""
+            },
+            {
+              "nominee": "BOO'D UP",
+              "artist": "Larrance Dopson, Joelle James, Ella Mai & Dijon McFarlane, songwriters (Ella Mai)",
+              "info": ""
+            },
+            {
+              "nominee": "GOD'S PLAN",
+              "artist": "Aubrey Graham, Daveon Jackson, Brock Korsan, Ron LaTour, Matthew Samuels & Noah Shebib, songwriters (Drake)",
+              "info": ""
+            },
+            {
+              "nominee": "IN MY BLOOD",
+              "artist": "Teddy Geiger, Scott Harris, Shawn Mendes & Geoffrey Warburton, songwriters (Shawn Mendes)",
+              "info": ""
+            },
+            {
+              "nominee": "THE JOKE",
+              "artist": "Brandi Carlile, Dave Cobb, Phil Hanseroth & Tim Hanseroth, songwriters (Brandi Carlile)",
+              "info": ""
+            },
+            {
+              "nominee": "THE MIDDLE",
+              "artist": "Sarah Aarons, Jordan K. Johnson, Stefan Johnson, Marcus Lomax, Kyle Trewartha, Michael Trewartha & Anton Zaslavski, songwriters (Zedd, Maren Morris & Grey)",
+              "info": ""
+            },
+            {
+              "nominee": "SHALLOW",
+              "artist": "Lady Gaga, Mark Ronson, Anthony Rossomando & Andrew Wyatt, songwriters (Lady Gaga & Bradley Cooper)",
+              "info": ""
+            },
+            {
+              "nominee": "THIS IS AMERICA",
+              "artist": "Donald Glover, Ludwig Goransson & Jeffery Lamar Williams, songwriters (Childish Gambino)",
+              "info": ""
+            }
+          ],
+          "winner_id": 2
+        },
+        {
+          "category_name": "Best New Artist",
+          "category_id": 4,
+          "description": "An artist will be considered for Best New Artist if their eligibility year release/s achieved a breakthrough into the public consciousness and notably impacted the musical landscape.",
+          "nominees": [
+            {
+              "nominee": "CHLOE X HALLE",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "LUKE COMBS",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "GRETA VAN FLEET",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "H.E.R.",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "DUA LIPA",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "MARGO PRINCE",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "BEBE REXHA",
+              "artist": "",
+              "info": ""
+            },
+            {
+              "nominee": "JORJA SMITH",
+              "artist": "",
+              "info": ""
+            }
+          ],
+          "winner_id": 4
+        }
+      ]
+    },
+    {
+      "field": "POP",
+      "field_id": 2,
+      "categories": [
+        {
+          "category_name": "Best Pop Solo Performance",
+          "category_id": 5,
+          "description": "For new vocal or instrumental pop recordings. Singles or Tracks only.",
+          "nominees": [
+            {
+              "nominee": "COLORS",
+              "artist": "Beck",
+              "info": ""
+            },
+            {
+              "nominee": "HAVANA (LIVE)",
+              "artist": "Camila Cabello",
+              "info": ""
+            },
+            {
+              "nominee": "GOD IS A WOMAN",
+              "artist": "Ariana Grande",
+              "info": ""
+            },
+            {
+              "nominee": "JOANNE (WHERE DO YOU THINK YOU'RE GOIN'?)",
+              "artist": "Lady Gaga",
+              "info": ""
+            },
+            {
+              "nominee": "BETTER NOW",
+              "artist": "Post Malone",
+              "info": ""
+            }
+          ],
+          "winner_id": 3
+        },
+        {
+          "category_name": "Best Pop Duo/Group Performance",
+          "category_id": 6,
+          "description": "For new vocal or instrumental duo/group or collaborative pop recordings. Singles or Tracks only.",
+          "nominees": [
+            {
+              "nominee": "FALL IN LINE",
+              "artist": "Christina Aguilera Featuring Demi Lovato",
+              "info": ""
+            },
+            {
+              "nominee": "DON'T GO BREAKING MY HEART",
+              "artist": "Backstreet Boys",
+              "info": ""
+            },
+            {
+              "nominee": "'S WONDERFUL",
+              "artist": "Tony Bennett & Diana Krall",
+              "info": ""
+            },
+            {
+              "nominee": "SHALLOW",
+              "artist": "Lady Gaga & Bradley Cooper",
+              "info": ""
+            },
+            {
+              "nominee": "GIRLS LIKE YOU",
+              "artist": "Maroon 5 Featuring Cardi B",
+              "info": ""
+            },
+            {
+              "nominee": "SAY SOMETHING",
+              "artist": "Justin Timberlake Featuring Chris Stapleton",
+              "info": ""
+            },
+            {
+              "nominee": "THE MIDDLE",
+              "artist": "Zedd, Maren Morris & Grey",
+              "info": ""
+            }
+          ],
+          "winner_id": 3
+        },
+        {
+          "category_name": "Best Traditional Pop Vocal Album",
+          "category_id": 7,
+          "description": "For albums containing at least 51% playing time of new traditional pop recordings.",
+          "nominees": [
+            {
+              "nominee": "LOVE IS HERE TO STAY",
+              "artist": "Tony Bennett & Diana Krall",
+              "info": ""
+            },
+            {
+              "nominee": "MY WAY",
+              "artist": "Willie Nelson",
+              "info": ""
+            },
+            {
+              "nominee": "NAT \"KING\" COLE & ME",
+              "artist": "Gregory Porter",
+              "info": ""
+            },
+            {
+              "nominee": "STANDARDS (DELUXE)",
+              "artist": "Seal",
+              "info": ""
+            },
+            {
+              "nominee": "THE MUSIC...THE MEM'RIES...THE MAGIC!",
+              "artist": "Barbra Streisand",
+              "info": ""
+            }
+          ],
+          "winner_id": 1
+        },
+        {
+          "category_name": "Best Pop Vocal Album",
+          "category_id": 8,
+          "description": "For albums containing at least 51% playing time of new vocal pop recordings",
+          "nominees": [
+            {
+              "nominee": "Camila",
+              "artist": "Camila Cabello",
+              "info": ""
+            },
+            {
+              "nominee": "MEANING OF LIFE",
+              "artist": "Kelly Clarkson",
+              "info": ""
+            },
+            {
+              "nominee": "SWEETENER",
+              "artist": "Ariana Grande",
+              "info": ""
+            },
+            {
+              "nominee": "SHAWN MENDES",
+              "artist": "Shawn Mendes",
+              "info": ""
+            },
+            {
+              "nominee": "BEAUTIFUL TRAUMA",
+              "artist": "P!nk",
+              "info": ""
+            },
+            {
+              "nominee": "REPUTATION",
+              "artist": "Taylor Swift",
+              "info": ""
+            }
+          ],
+          "winner_id": 2
+        }
+      ]
+    },
+    {
+      "field": "DANCE/ELECTRONIC MUSIC",
+      "field_id": 3,
+      "description": "For solo, duo, group or collaborative performances. Vocal or Instrumental. Singles or tracks only",
+      "categories": [
+        {
+          "category_name": "Best Dance Recording",
+          "category_id": 7,
+          "description": "For solo, duo, group or collaborative performances. Vocal or Instrumental. Singles or tracks only.",
+          "nominees": [
+            {
+              "nominee": "NORTHERN SOUL",
+              "artist": "Above & Beyond Featuring Richard Bedford",
+              "info": "Above & Beyond & Andrew Bayer, producers; Above & Beyond, mixers"
+            },
+            {
+              "nominee": "ULTIMATUM",
+              "artist": "Disclosure (Featuring Fatoumata Diawara)",
+              "info": "Guy Lawrence & Howard Lawrence, producers; Guy Lawrence, mixer"
+            },
+            {
+              "nominee": "LOSING IT",
+              "artist": "Fisher",
+              "info": "Paul Nicholas Fisher, producer; Kevin Grainger, mixer"
+            },
+            {
+              "nominee": "ELECTRICITY",
+              "artist": "Silk City & Dua Lipa Featuring Diplo & Mark Ronson",
+              "info": "Jarami, Alex Metric, Riton & Silk City, producers; Josh Gudwin, mixer"
+            },
+            {
+              "nominee": "GHOST VOICES",
+              "artist": "Virtual Self",
+              "info": "Porter Robinson, producer; Porter Robinson, mixer"
+            }
+          ],
+          "winner_id": 3
+        },
+        {
+          "category_name": "Best Dance/Electronic Album",
+          "category_id": 7,
+          "description": "For vocal or instrumental albums. Albums only",
+          "nominees": [
+            {
+              "nominee": "SINGULARITY",
+              "artist": "Jon Hopkins",
+              "info": ""
+            },
+            {
+              "nominee": "WOMAN WORLDWIDE",
+              "artist": "Justice",
+              "info": ""
+            },
+            {
+              "nominee": "TREEHOUSE",
+              "artist": "Sofi Tukker",
+              "info": "Paul Nicholas Fisher, producer; Kevin Grainger, mixer"
+            },
+            {
+              "nominee": "OIL OF EVERY PEARL'S UN-INSIDES",
+              "artist": "SOPHIE",
+              "info": "Jarami, Alex Metric, Riton & Silk City, producers; Josh Gudwin, mixer"
+            },
+            {
+              "nominee": "LUNE ROUGE",
+              "artist": "TOKiMONSTA",
+              "info": ""
+            }
+          ],
+          "winner_id": 3
+        }
+      ]
+    },
+    {
+      "field": "CONTEMPORARY INSTRUMENTAL MUSIC",
+      "field_id": 4,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best Contemporary Instrumental Album",
+          "category_id": 7,
+          "description": "For albums containing approximately 51% or more playing time of instrumental material. For albums containing at least 51% playing time of new recordings.",
+          "nominees": [
+            {
+              "nominee": "THE EMANCIPATION PROCRASTINATION",
+              "artist": "Christian Scott aTunde Adjuah",
+              "info": ""
+            },
+            {
+              "nominee": "STEVE GADD BAND",
+              "artist": "Steve Gadd Band",
+              "info": ""
+            },
+            {
+              "nominee": "MODERN LORE",
+              "artist": "Julian Lage",
+              "info": ""
+            },
+            {
+              "nominee": "LAID BLACK",
+              "artist": "Marcus Miller",
+              "info": ""
+            },
+            {
+              "nominee": "Marcus Miller",
+              "artist": "Simon Phillips",
+              "info": ""
+            }
+          ],
+          "winner_id": 1
+        }
+      ]
+    },
+    {
+      "field": "ROCK",
+      "field_id": 5,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best Rock Album",
+          "description": "For albums containing at least 51% playing time of new rock, hard rock or metal recordings.",
+          "nominees": [
+            {
+              "nominee": "RAINIER FOG",
+              "artist": "Alice In Chains",
+              "info": ""
+            },
+            {
+              "nominee": "M A N I A",
+              "artist": "Fall Out Boy",
+              "info": ""
+            },
+            {
+              "nominee": "PREQUELLE",
+              "artist": "Ghost",
+              "info": ""
+            },
+            {
+              "nominee": "FROM THE FIRES",
+              "artist": "Greta Van Fleet",
+              "info": ""
+            },
+            {
+              "nominee": "PACIFIC DAYDREAM",
+              "artist": "Weezer",
+              "info": ""
+            }
+          ],
+          "winner_id": 3
+        },
+        {
+          "category_name": "Best Rock Performance",
+          "description": "For new vocal or instrumental solo, duo/group or collaborative rock recordings.",
+          "nominees": [
+            {
+              "nominee": "FOUR OUT OF FIVE",
+              "artist": "Arctic Monkeys",
+              "info": ""
+            },
+            {
+              "nominee": "WHEN BAD DOES GOOD",
+              "artist": "Chris Cornell",
+              "info": ""
+            },
+            {
+              "nominee": "MADE AN AMERICA",
+              "artist": "THE FEVER 333",
+              "info": ""
+            },
+            {
+              "nominee": "HIGHWAY TUNE",
+              "artist": "Greta Van Fleet",
+              "info": ""
+            },
+            {
+              "nominee": "UNCOMFORTABLE",
+              "artist": "Halestorm",
+              "info": ""
+            }
+          ],
+          "winner_id": 1
+        },
+        {
+          "category_name": "Best Metal Performance",
+          "description": "For new vocal or instrumental solo, duo/group or collaborative metal recordings.",
+          "nominees": [
+            {
+              "nominee": "CONDEMNED TO THE GALLOWS",
+              "artist": "Between The Buried And Me",
+              "info": ""
+            },
+            {
+              "nominee": "HONEYCOMB",
+              "artist": "Deafheaven",
+              "info": ""
+            },
+            {
+              "nominee": "ELECTRIC MESSIAH",
+              "artist": "High On Fire",
+              "info": ""
+            },
+            {
+              "nominee": "BETRAYER",
+              "artist": "Trivium",
+              "info": ""
+            },
+            {
+              "nominee": "ON MY TEETH",
+              "artist": "Underoath",
+              "info": ""
+            }
+          ],
+          "winner_id": 2
+        },
+        {
+          "category_name": "Best Rock Song",
+          "description": "A Songwriter(s) Award. Includes Rock, Hard Rock and Metal songs. A song is eligible if it was first released or if it first achieved prominence during the Eligibility Year. (Artist names appear in parentheses.) Singles or Tracks only.",
+          "nominees": [
+            {
+              "nominee": "BLACK SMOKE RISING",
+              "artist": "Jacob Thomas Kiszka, Joshua Michael Kiszka, Samuel Francis Kiszka & Daniel Robert Wagner, songwriters (Greta Van Fleet)",
+              "info": ""
+            },
+            {
+              "nominee": "JUMPSUIT",
+              "artist": "Tyler Joseph, songwriter (Twenty One Pilots)",
+              "info": ""
+            },
+            {
+              "nominee": "MANTRA",
+              "artist": "Jordan Fish, Matthew Kean, Lee Malia, Matthew Nicholls & Oliver Sykes, songwriters (Bring Me The Horizon)",
+              "info": ""
+            },
+            {
+              "nominee": "MASSEDUCTION",
+              "artist": "ack Antonoff & Annie Clark, songwriters (St. Vincent)",
+              "info": ""
+            },
+            {
+              "nominee": "RATS",
+              "artist": "Tom Dalgety & A Ghoul Writer, songwriters (Ghost)",
+              "info": ""
+            }
+          ],
+          "winner_id": 3
+        }
+      ]
+    },
+    {
+      "field": "ALTERNATIVE",
+      "field_id": 6,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best Alternative Music Album",
+          "description": "Vocal or Instrumental.",
+          "nominees": [
+            {
+              "nominee": "TRANQUILITY BASE HOTEL + CASINO",
+              "artist": "Arctic Monkeys",
+              "info": ""
+            },
+            {
+              "nominee": "COLORS",
+              "artist": "Beck",
+              "info": ""
+            },
+            {
+              "nominee": "UTOPIA",
+              "artist": "Björk",
+              "info": ""
+            },
+            {
+              "nominee": "AMERICAN UTOPIA",
+              "artist": "David Byrne",
+              "info": ""
+            },
+            {
+              "nominee": "MASSEDUCTION",
+              "artist": "St. Vincent",
+              "info": ""
+            }
+          ],
+          "winner_id": 1
+        }
+      ]
+    },
+    {
+      "field": "R&B",
+      "field_id": 7,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best R&B Performance",
+          "description": "For new vocal or instrumental R&B recordings",
+          "nominees": [
+            {
+              "nominee": "LONG AS I LIVE",
+              "artist": "Toni Braxton",
+              "info": ""
+            },
+            {
+              "nominee": "SUMMER",
+              "artist": "The Carters",
+              "info": ""
+            },
+            {
+              "nominee": "Y O Y",
+              "artist": "Lalah Hathaway",
+              "info": ""
+            },
+            {
+              "nominee": "BEST PART ",
+              "artist": "H.E.R. Featuring Daniel Caesar",
+              "info": ""
+            },
+            {
+              "nominee": "FIRST BEGAN",
+              "artist": "PJ Morton",
+              "info": ""
+            }
+          ],
+          "winner_id": 3
+        },
+        {
+          "category_name": "Best Traditional R&B Performance",
+          "description": "For new vocal or instrumental traditional R&B recordings.",
+          "nominees": [
+            {
+              "nominee": "BET AIN'T WORTH THE HAND ",
+              "artist": "Leon Bridges",
+              "info": ""
+            },
+            {
+              "nominee": "DON'T FALL APART ON ME TONIGHT",
+              "artist": "Bettye LaVette",
+              "info": ""
+            },
+            {
+              "nominee": "HONEST",
+              "artist": "MAJOR",
+              "info": ""
+            },
+            {
+              "nominee": "HOW DEEP IS YOUR LOVE",
+              "artist": "PJ Morton Featuring Yebba",
+              "info": ""
+            },
+            {
+              "nominee": "MADE FOR LOVE",
+              "artist": "Charlie Wilson Featuring Lalah Hathaway",
+              "info": ""
+            }
+          ],
+          "winner_id": 0
+        }
+      ]
+    },
+    {
+      "field": "RAP",
+      "field_id": 8,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best Rap Performance",
+          "description": "For a Rap performance. Singles or Tracks only.",
+          "nominees": [
+            {
+              "nominee": "BE CAREFOUL",
+              "artist": "Cardi B",
+              "info": ""
+            },
+            {
+              "nominee": "NICE FOR WHAT",
+              "artist": "Drake",
+              "info": ""
+            },
+            {
+              "nominee": "KING'S DEAD",
+              "artist": "Kendrick Lamar, Jay Rock, Future & James Blake",
+              "info": ""
+            },
+            {
+              "nominee": "BUBBLIN",
+              "artist": "Anderson .Paak",
+              "info": ""
+            },
+            {
+              "nominee": "SICKO MODE",
+              "artist": "Travis Scott, Drake, (Big Hawk) & Swae Lee",
+              "info": ""
+            }
+          ],
+          "winner_id": 2
+        },
+        {
+          "category_name": "Best Rap/Sung Performance",
+          "description": "For a solo or collaborative performance containing both elements of R&B melodies and Rap.",
+          "nominees": [
+            {
+              "nominee": "LIKE I DO",
+              "artist": "Christina Aguilera Featuring Goldlink",
+              "info": ""
+            },
+            {
+              "nominee": "PRETTY LITTLE FEARS",
+              "artist": "6lack Featuring J. Cole",
+              "info": ""
+            },
+            {
+              "nominee": "THIS IS AMERICA",
+              "artist": "Childish Gambino",
+              "info": ""
+            },
+            {
+              "nominee": "ALL THE STARS",
+              "artist": "Kendrick Lamar & SZA",
+              "info": ""
+            },
+            {
+              "nominee": "ROCKSTAR",
+              "artist": "Post Malone Featuring 21 Savage",
+              "info": ""
+            }
+          ],
+          "winner_id": 2
+        }
+      ]
+    },
+    {
+      "field": "NEW AGE",
+      "field_id": 9,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best New Age Album",
+          "description": "For albums containing at least 51% playing time of new vocal or instrumental new age recordings.",
+          "nominees": [
+            {
+              "nominee": "HIRAETH",
+              "artist": "Lisa Gerrard & David Kuckhermann",
+              "info": ""
+            },
+            {
+              "nominee": "BELOVED",
+              "artist": "Snatam Kaur",
+              "info": ""
+            },
+            {
+              "nominee": "OPIUM MOON",
+              "artist": "Opium Moon",
+              "info": ""
+            },
+            {
+              "nominee": "MOLECULES OF MOTION",
+              "artist": "Steve Roach",
+              "info": ""
+            },
+            {
+              "nominee": "MOKU MALUHIA - PEACEFUL ISLAND",
+              "artist": "Jim Kimo West",
+              "info": ""
+            }
+          ],
+          "winner_id": 2
+        }
+      ]
+    },
+    {
+      "field": "JAZZ",
+      "field_id": 10,
+      "description": "",
+      "categories": [
+        {
+          "category_name": "Best Improvised Jazz Solo",
+          "description": "For an instrumental jazz solo performance. Two equal performers on one recording may be eligible as one entry. If the soloist listed appears on a recording billed to another artist, the latter's name is in parenthesis for identification. Singles or Tracks only.",
+          "nominees": [
+            {
+              "nominee": "SOME OF THAT SUNSHINE",
+              "artist": "Regina Carter, soloist",
+              "info": "Track from: Some Of That Sunshine (Karrin Allyson)"
+            },
+            {
+              "nominee": "DON'T FENCE ME IN",
+              "artist": "John Daversa, soloist",
+              "info": "Track from: American Dreamers: Voices Of Hope, Music Of Freedom (John Daversa Big Band Featuring DACA Artists)"
+            },
+            {
+              "nominee": "WE SEE",
+              "artist": "Fred Hersch, soloists",
+              "info": ""
+            },
+            {
+              "nominee": "DE-DAH",
+              "artist": "Brad Mehldau, soloist",
+              "info": "Track from: Seymour Reads The Constitution! (Brad Mehldau Trio)"
+            },
+            {
+              "nominee": "CADENAS",
+              "artist": "Miguel Zenón, soloist",
+              "info": "Track from: Yo Soy La Tradición (Miguel Zenón Featuring Spektral Quartet)"
+            }
+          ],
+          "winner_id": 1
+        }
+      ]
+    }
+  ]
+}
