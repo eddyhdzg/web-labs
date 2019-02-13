@@ -49,9 +49,16 @@ function loadNominees() {
               j < selectedField.categories[i].nominees.length;
               j++
             ) {
-              new_html += `<li><strong>${
-                selectedField.categories[i].nominees[j].nominee
-              }</strong>  
+              if (selectedField.categories[i].winner_id == j) {
+                new_html += `<li><strong class="winner"><img src="./img/star.png" alt="winner-star">${
+                  selectedField.categories[i].nominees[j].nominee
+                }</strong><img src="./img/star.png" alt="winner-star">`;
+              } else {
+                new_html += `<li><strong>${
+                  selectedField.categories[i].nominees[j].nominee
+                }</strong>`;
+              }
+              new_html += `
             <p>${selectedField.categories[i].nominees[j].artist}</p>
             <p>${selectedField.categories[i].nominees[j].info}</p>
             </li>`;
