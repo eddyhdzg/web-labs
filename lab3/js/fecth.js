@@ -1,14 +1,9 @@
-$(document).ready(function() {
-  loadNominees();
-});
-
 /**
  * Fetch categories to display in select with id="category_types
  * @param {json} grammys.json JSON with data of grammys 2019
  */
-fetch("https://eddyhdzg.github.io/web-labs/lab3/data/grammys.json")
+fetch("../data/grammys.json")
   .then(function(response) {
-    console.log(response.json());
     return response.json();
   })
   .then(function(data) {
@@ -22,9 +17,8 @@ fetch("https://eddyhdzg.github.io/web-labs/lab3/data/grammys.json")
           `;
     }
 
-    console.log(data);
-
     $("#category_types").append(new_html);
+    loadNominees();
     return;
   })
   .catch(function(err) {
@@ -36,10 +30,8 @@ fetch("https://eddyhdzg.github.io/web-labs/lab3/data/grammys.json")
  * @param {json} grammys.json JSON with data of grammys 2019
  */
 function loadNominees() {
-  fetch("https://eddyhdzg.github.io/web-labs/lab3/data/grammys.json")
+  fetch("../data/grammys.json")
     .then(function(response) {
-      console.log(response.json());
-
       return response.json();
     })
     .then(function(data) {
