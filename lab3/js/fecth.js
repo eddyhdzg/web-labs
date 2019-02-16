@@ -6,7 +6,7 @@ $(document).ready(function() {
  * Fetch categories to display in select with id="category_types
  * @param {json} grammys.json JSON with data of grammys 2019
  */
-fetch("../data/grammys.json")
+fetch("https://eddyhdzg.github.io/web-labs/lab3/data/grammys.json")
   .then(function(response) {
     console.log(response.json());
     return response.json();
@@ -36,7 +36,7 @@ fetch("../data/grammys.json")
  * @param {json} grammys.json JSON with data of grammys 2019
  */
 function loadNominees() {
-  fetch("../data/grammys.json")
+  fetch("https://eddyhdzg.github.io/web-labs/lab3/data/grammys.json")
     .then(function(response) {
       console.log(response.json());
 
