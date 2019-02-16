@@ -1,3 +1,7 @@
+$(document).ready(function() {
+  loadNominees();
+});
+
 $.ajax({
   url: "data/grammys.json",
   type: "GET",
@@ -14,7 +18,6 @@ $.ajax({
     }
 
     $("#category_types").append(new_html);
-    loadNominees();
   },
   error: function(error_msg) {
     console.log(error_msg);
