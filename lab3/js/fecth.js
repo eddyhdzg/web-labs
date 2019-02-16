@@ -8,6 +8,7 @@ $(document).ready(function() {
  */
 fetch("../data/grammys.json")
   .then(function(response) {
+    console.log(response.json());
     return response.json();
   })
   .then(function(data) {
@@ -20,6 +21,8 @@ fetch("../data/grammys.json")
             </option>
           `;
     }
+
+    console.log(data);
 
     $("#category_types").append(new_html);
     return;
@@ -35,6 +38,8 @@ fetch("../data/grammys.json")
 function loadNominees() {
   fetch("../data/grammys.json")
     .then(function(response) {
+      console.log(response.json());
+
       return response.json();
     })
     .then(function(data) {
