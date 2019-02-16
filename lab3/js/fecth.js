@@ -2,7 +2,12 @@
  * Fetch categories to display in select with id="category_types
  * @param {json} grammys.json JSON with data of grammys 2019
  */
-fetch("../data/grammys.json")
+fetch("../data/grammys.json", {
+  headers: {
+    "Content-Type": "application/json",
+    Accept: "application/json"
+  }
+})
   .then(function(response) {
     return response.json();
   })
@@ -30,7 +35,12 @@ fetch("../data/grammys.json")
  * @param {json} grammys.json JSON with data of grammys 2019
  */
 function loadNominees() {
-  fetch("../data/grammys.json")
+  fetch("../data/grammys.json", {
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json"
+    }
+  })
     .then(function(response) {
       return response.json();
     })
