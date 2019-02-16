@@ -1,3 +1,7 @@
+$(document).ready(function() {
+  loadNominees();
+});
+
 /**
  * Fetch categories to display in select with id="category_types
  * @param {json} grammys.json JSON with data of grammys 2019
@@ -18,7 +22,6 @@ fetch("../data/grammys.json")
     }
 
     $("#category_types").append(new_html);
-    loadNominees();
     return;
   })
   .catch(function(err) {
