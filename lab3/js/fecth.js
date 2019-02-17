@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  $("select").formSelect();
   loadNominees();
 });
 

@@ -2,19 +2,29 @@
 <html>
   <head>
     <title>2019 Grammys with Fetch 🎸🎤🎶🎵</title>
+
     <link
-      href="https://fonts.googleapis.com/css?family=Rubik:300,400,700"
+      href="https://fonts.googleapis.com/css?family=Roboto:400,500,700"
       rel="stylesheet"
     />
+
+    <!-- Compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+
     <link rel="stylesheet" type="text/css" href="css/styles.css" />
   </head>
   <body>
-    <div class="container">
+    <div class="container row">
       <h1>2019 Grammys with Fetch 🎸🎤🎶🎵</h1>
 
-      <select id="category_types">
-        <option value="-1">Select a category</option>
+      <label>Select Category</label>
+      <select id="category_types" class="browser-default">
+        <option value="" disabled selected>-</option>
       </select>
+
       <section id="nominees_section"></section>
     </div>
     <script
@@ -22,6 +32,10 @@
       integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
       crossorigin="anonymous"
     ></script>
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
     <script type="text/javascript" src="js/fecth.js"></script>
   </body>
 </html>
