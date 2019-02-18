@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<comments>
+  <comment>
+    <name email="lupita@amantedeburritos.com"> Lupita </name>
+    <stars>5</stars>
+    <date>hace 4 días</date>
+    <text> La mejor calidad! buen precio y te lo sirven como tu quieres! Que mas puedes pedir?</text>
+  </comment>
+  <comment>
+    <name email="adios@500.com"> Frida </name>
+    <stars>4</stars>
+    <date>hace 2 semanas</date>
+    <text> Donde no puedas comer burritos, no de demores. Me demoraria cada vez con estos burritos.</text>
+  </comment>
+  <comment>
+    <name email="juanitoperez@milochomil.mx"> Julio Perez </name>
+    <stars>5</stars>
+    <date>hace 3 semanas</date>
+    <text> El burrito esta excelente! podria comer mil!!!! </text>
+  </comment>
+  <comment>
+    <name email="brendan57@reddit.us"> Brendan Sullivan </name>
+    <stars>5</stars>
+    <date>hace 1 mes</date>
+    <text> Como amante de los burritos, solo podria decir 5/7</text>
+  </comment>
+  <comment>
+    <name email="enrealidadnosoyunnino@email.com"> Juan Escutia </name>
+    <stars>5</stars>
+    <date>hace 2 meses</date>
+    <text> El burrito mas delicioso que he probado!</text>
+  </comment>
+</comments>
