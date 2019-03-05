@@ -42,7 +42,7 @@ Ajax practice with Grammys Nominees and Winners data
 
 Returns a string of today's weather condition
 
-[https://github.com/eddyhdzg/web-labs/tree/master/lab3](https://github.com/eddyhdzg/web-labs/tree/master/lab3)
+[https://github.com/eddyhdzg/web-labs/tree/master/lab4](https://github.com/eddyhdzg/web-labs/tree/master/lab4)
 
 > **Exmple**
 
