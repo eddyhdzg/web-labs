@@ -31,3 +31,9 @@ Todo List inspired by Google Tasks
 Ajax practice with Grammys Nominees and Winners data
 
 - [https://eddyhdzg.github.io/web-labs/lab3/](https://eddyhdzg.github.io/web-labs/lab3/)
+
+## Lab 4 - Node Weather APP
+
+Returns a string of today's weather condition
+
+- [https://github.com/eddyhdzg/web-labs/tree/master/lab3](https://github.com/eddyhdzg/web-labs/tree/master/lab3)
