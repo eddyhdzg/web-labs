@@ -44,6 +44,16 @@ Returns a string of today's weather condition
 
 [https://github.com/eddyhdzg/web-labs/tree/master/lab4](https://github.com/eddyhdzg/web-labs/tree/master/lab4)
 
-> **Exmple**
+> **Example**
 
 > <img  src="https://eddyhdzg.github.io/web-labs/lab4/img/lab4-console.png"  width="400" />
+
+## Lab 5 - Node Weather APP with Callbacks
+
+Returns a string of today's weather condition using callback functions
+
+[https://github.com/eddyhdzg/web-labs/tree/master/lab5](https://github.com/eddyhdzg/web-labs/tree/master/lab5)
+
+> **Example**
+
+> <img  src="https://eddyhdzg.github.io/web-labs/lab5/img/lab5-console.png"  width="400" />
