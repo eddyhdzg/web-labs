@@ -2,11 +2,14 @@
 */node_modules
 
 
-# lab4
-lab4/credentials.js
+# credentials
+*/credentials.js
+
+# package-lock.json
 */package-lock.json
 
-
+# ejemplo
+lab5/ejemplo.js
 
 # misc
 .DS_Store
